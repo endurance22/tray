@@ -11,7 +11,7 @@
 
 ```
 CONNECTING TO DATABASE:
-1.crete a sqldatabase named "tray" using mysql or phpmyadmin
+1.create a sql database named "tray" using mysql or phpmyadmin
 
 2.cd tray/nodeapp/database/tray.sql and copy paste the file to "tray" database just created as mysql script
 
